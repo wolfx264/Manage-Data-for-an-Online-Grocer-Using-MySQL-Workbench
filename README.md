@@ -1,9 +1,7 @@
 **##GitHub README for the MSQL-Data-Management Repository**
 
 	The purpose of this repository is to showcase my skill set in using MySQL Workbench. The project I have used to showcase these skills “Managing Data for an Online Grocer Using MySQL Workbench” can be found on the Coursera website [here](https://www.coursera.org/projects/showcase-manage-data-online-grocer-mysql-workbench).
-
 	For this project I have been assigned by the fictional online grocery company GreenSpot to take the spreadsheet provided (GreenSpotData.png) and design a database that can organize and store the given data. I then have to test and verify the design of my database by creating several SQL join queries, each using multiple tables to examine GreenSpot's products.
-
 	In order to show how I have completed this project successfully, I have added eight different files to this repository. Six are .png image files meant to easily and comprehensively display spreadsheets, SQL queries (and the successful results), and an EER diagram of the project's database. The other two are .sql files that show the built database and the SQL queries. 
 
 A Brief Explanation of the Repository Files
