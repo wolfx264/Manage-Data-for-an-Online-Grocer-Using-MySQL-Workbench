@@ -1,4 +1,4 @@
-# GitHub README for the MSQL-Data-Management Repository
+# GitHub README for the "Manage Data for an Online Grocer Using MySQL Workbench" Repository
 
 The purpose of this repository is to showcase my skill set in using MySQL Workbench. The project I have used to showcase these skills “Managing Data for an Online Grocer Using MySQL Workbench” can be found on the Coursera website [here](https://www.coursera.org/projects/showcase-manage-data-online-grocer-mysql-workbench).
 
